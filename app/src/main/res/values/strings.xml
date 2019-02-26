@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="txt_registrer_text">ĐĂNG KÝ THÀNH VIÊN</string>
+    <string name="edt_fullname_hint">Nhập tên</string>
+    <string name="edt_email_hint">Nhập email</string>
+    <string name="edt_password_hint">Nhập mật khẩu</string>
+    <string name="edt_repassword_hint">Nhập lại mật khẩu</string>
+    <string name="btn_register_text">Xác nhận đăng ký</string>
+    <string name="txt_display_other_register_method">Đăng nhập qua các phương tiện khác</string>
+    <string name="btn_facebook_text">Facebook</string>
+    <string name="btn_google_text">Google</string>
+    <string name="password_empty">Nhập mật khẩu</string>
+    <string name="password_len_invalid">Độ dài mật khẩu phải lớn hơn 8 ký tự</string>
+    <string name="repasswod_empty">Nhập lại mật khẩu</string>
+    <string name="repasswod_not_match">Mật khẩu nhập lại không khớp</string>
+    <string name="email_empty">Nhập email</string>
+    <string name="email_invalid">Email không hợp lệ</string>
+    <string name="fullname_empty">Nhập tên</string>
+</resources>
